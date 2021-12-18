@@ -4,7 +4,7 @@
 
 Admin Login Cradntial
 
-username => `Spark Fundation Bank`
+username => `Spark Foundation Bank`
 
 password => `admin`
     
